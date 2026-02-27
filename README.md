@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | MERN | Next.js | CI/CD | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/dashboard">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
@@ -24,10 +24,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
+<a href="https://www.linkedin.com/in/juber-ladaf-07929721a/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
-<a href="https://github.com/yourusername" target="blank">
+<a href="https://github.com/dashboard" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
 </a>
 </p>
@@ -59,8 +59,8 @@ Full-stack web app for restaurant owners & staff.
 ✔ CI/CD Automated Deployment  
 ✔ 30% Performance Optimization  
 
-🔗 Live Demo: [Add Live Link Here]  
-🔗 Repo: [Add Repo Link Here]
+🔗 Live Demo: [https://restro-smartdin.vercel.app/]  
+🔗 Repo: [https://github.com/LadafJuber/restro_smartdin]
 
 ---
 
